@@ -16,6 +16,7 @@
 - Year-over-Year (YOY) Growth in Total Sales
 - Difference between YTD Sales and Previous Year-to-Date (PTYD) Sales
 
+![Screenshot 2024-02-17 193506](https://github.com/NARESH-VNK/Car_Sales_Dashboard/assets/130344485/f7ac517b-9eea-4ced-90f7-4bdfa569c732)
 
 
 #### Average Price Analysis:
